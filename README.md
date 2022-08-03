@@ -34,7 +34,7 @@ Tensorflow 2.6.0
 
 
 ## Data
-Due to the data confidentiality, we are not allowed to share the field examples of simulation model that were used in our paper. Only the synthetic examples are available in this repository.
+Due to the data confidentiality, we are not allowed to share the field examples or simulation model that were used in our paper. Only the synthetic examples are available in this repository.
 
 
 
