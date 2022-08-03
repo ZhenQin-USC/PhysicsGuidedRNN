@@ -9,19 +9,19 @@ To address the above challenges and learn the unknown physical system, we propos
 
 ### 1. Skip Connection:
 <p align="center">
-<img src="https://github.com/ZhenQin-USC/Physics-Guided_RNN/blob/main/Image/Method3b_SkipConnection.png" width="825" height="300">
+<img src="https://github.com/ZhenQin-USC/Physics-Guided_RNN/blob/main/Image/SkipConnection.png" width="825" height="300">
 </p>
 
 ### 2. Physics Guided RNNs:
 
 #### 2.1 Physics Guided GRU:
 <p align="center">
-<img src="https://github.com/ZhenQin-USC/Physics-Guided_RNN/blob/main/Image/Method3c_PhyGRU.png" width="825" height="200">
+<img src="https://github.com/ZhenQin-USC/Physics-Guided_RNN/blob/main/Image/PhyGRU.png" width="825" height="200">
 </p>
 
 #### 2.1 Physics Guided RNN:
 <p align="center">
-<img src="https://github.com/ZhenQin-USC/Physics-Guided_RNN/blob/main/Image/Method3c_PhyRNN.png" width="825" height="200">
+<img src="https://github.com/ZhenQin-USC/Physics-Guided_RNN/blob/main/Image/PhyRNN.png" width="825" height="200">
 </p>
 
 
